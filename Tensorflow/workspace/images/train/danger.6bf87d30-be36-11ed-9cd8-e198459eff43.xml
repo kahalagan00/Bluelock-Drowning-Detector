@@ -1,0 +1,26 @@
+<annotation>
+	<folder>danger</folder>
+	<filename>danger.6bf87d30-be36-11ed-9cd8-e198459eff43.jpg</filename>
+	<path>/home/jebs/Desktop/Venetian_Detection/Tensorflow/workspace/images/collectedimages/danger/danger.6bf87d30-be36-11ed-9cd8-e198459eff43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>danger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>399</ymin>
+			<xmax>660</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>
